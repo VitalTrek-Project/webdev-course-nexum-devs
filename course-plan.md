@@ -31,15 +31,15 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 
 #### Lección 3: Dando formato al texto (6 minutos)
 * **Descripción**: Aprende a utilizar encabezados y párrafos para organizar la información.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+* **Enlace**: [Ver la lección](https://youtu.be/IR51fs7pnDw)
 * **Consejos clave**: Usa las etiquetas `<h1>` a `<h6>` y `<p>`.
-* **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id)
+* **Práctica**: [Clic para programar](https://codesandbox.io/)
 
 #### Lección 4: Creación de listas (5 minutos)
 * **Descripción**: Organiza tus ideas estructurando listas ordenadas y desordenadas.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+* **Enlace**: [Ver la lección](https://youtu.be/VecN_7sSwTA)
 * **Consejos clave**: Usa las etiquetas `<ul>`, `<ol>`, `<li>`.
-* **Práctica**: [Clic para programar](https://replit.com/your-replit-id)
+* **Práctica**: [Clic para programar](https://codesandbox.io/)
 
 ### Módulo C: Multimedia y Navegación (Responsable: Rodriguez Rojas, Miler Alexander)
 
