@@ -45,15 +45,17 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 
 #### Lección 5: Añadiendo imágenes (6 minutos)
 * **Descripción**: Haz tu página más visual insertando fotografías y gráficos.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+* **Enlace**: [Ver la lección](https://youtu.be/weHyPF6luHo)
 * **Consejos clave**: Usa la etiqueta `<img>` y el atributo `src`.
-* **Práctica**: [Clic para programar](https://codepen.io/your-pen-id2)
+* **Material de la sesión**: [Ver material](https://canva.link/mu1ioc1qm9pg3az)
+* **Ejercicio**: [Ver ejercicio de la lección](https://codepen.io/Miler-Alexander-Rodriguez-Rojas/pen/VYPjyVd)
 
 #### Lección 6: Conectando la web con enlaces (5 minutos)
 * **Descripción**: Crea hipervínculos para navegar entre diferentes páginas y recursos.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+* **Enlace**: [Ver la lección](https://youtu.be/FblF2H1UpKg)
 * **Consejos clave**: Usa la etiqueta `<a>` y el atributo `href`.
-* **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id2)
+**Material de la sesión**: [Ver material](https://canva.link/f64dab0tjlto85b)
+* **Ejercicio**: [Ver ejercicio de la lección](https://codepen.io/Miler-Alexander-Rodriguez-Rojas/pen/qERNpgp)
 
 ### Módulo D: Diseño y Estilos (Responsable: Alfaro Mallma, Alberto Joaquin)
 
