@@ -33,13 +33,13 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 * **Descripción**: Aprende a utilizar encabezados y párrafos para organizar la información.
 * **Enlace**: [Ver la lección](https://youtu.be/IR51fs7pnDw)
 * **Consejos clave**: Usa las etiquetas `<h1>` a `<h6>` y `<p>`.
-* **Práctica**: [Clic para programar](https://codesandbox.io/)
+* **Práctica**: [Ejercicio](https://codesandbox.io/p/sandbox/ejemplo-modulo-b-jkzt55?file=%2Findex.html%3A29%2C1)
 
 #### Lección 4: Creación de listas (5 minutos)
 * **Descripción**: Organiza tus ideas estructurando listas ordenadas y desordenadas.
 * **Enlace**: [Ver la lección](https://youtu.be/VecN_7sSwTA)
 * **Consejos clave**: Usa las etiquetas `<ul>`, `<ol>`, `<li>`.
-* **Práctica**: [Clic para programar](https://codesandbox.io/)
+* **Práctica**: [Ejercicio](https://codesandbox.io/p/sandbox/ejemplo-modulo-b-jkzt55?file=%2Findex.html%3A29%2C1)
 
 ### Módulo C: Multimedia y Navegación (Responsable: Rodriguez Rojas, Miler Alexander)
 
@@ -94,8 +94,8 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 | :---: | :--- | :--- |
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Estructura básica HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Encabezados y párrafos | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Listas ordenadas y desordenadas | [Replit](https://replit.com/@your-username/your-lesson4) |
+| 3 | Encabezados y párrafos | [JSFiddle](https://codesandbox.io/) |
+| 4 | Listas ordenadas y desordenadas | [Replit](https://codesandbox.io/) |
 | 5 | Insertar imágenes | [CodePen](https://codepen.io/your-lesson5) |
 | 6 | Crear hipervínculos | [JSFiddle](https://jsfiddle.net/your-lesson6) |
 | 7 | Estilos iniciales con CSS | [CodePen](https://codepen.io/your-lesson7) |
