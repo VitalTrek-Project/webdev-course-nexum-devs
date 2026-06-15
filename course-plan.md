@@ -75,7 +75,7 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 * **Descripción**: Combina HTML y CSS para crear una página de perfil personal completa.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link9)
 * **Consejos clave**: Aplica los estilos aprendidos y estructura paso a paso.
-* **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project)
+* **Proyecto Final**: [Crea tu Perfil](https://codepen.io/giancarlo-jose-verastigue-martinez/pen/pvRNvMo)
 
 #### Lección 10: Errores comunes y próximos pasos (6 minutos)
 * **Descripción**: Recomendaciones, errores comunes para principiantes y recursos para seguir aprendiendo.

@@ -1,0 +1,34 @@
+body{
+    /* 1. ¡ERROR! Falta un punto y coma al final de la línea del background-color */
+  background-color: #282c34
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+
+}
+
+img{
+  width: 250px;
+  border-radius: 50%;
+  border: 5px solid #ff5722;
+
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+
+}
+
+li{
+  
+color: #ff5722;
+  font-size: 20px;
+  margin: 10px;
+
+}
+
+a {
+  color: #61dafb;
+  text-decoration: none;
+}
