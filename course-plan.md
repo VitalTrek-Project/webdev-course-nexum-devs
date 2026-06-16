@@ -81,7 +81,7 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 * **Descripción**: Recomendaciones, errores comunes para principiantes y recursos para seguir aprendiendo.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link10)
 * **Consejos clave**: Valida el código y revisa tus etiquetas de cierre.
-* **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+
 
 ---
 
@@ -100,10 +100,10 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 | 6 | Crear hipervínculos | [JSFiddle](https://jsfiddle.net/your-lesson6) |
 | 7 | Estilos iniciales con CSS | [CodePen](https://codepen.io/your-lesson7) |
 | 8 | Colores, fuentes y alineación | [Replit](https://replit.com/@your-username/your-lesson8) |
-| 9 | Proyecto Final: Página de perfil | [Replit](https://replit.com/@your-username/your-lesson9) |
+| 9 | Proyecto Final: Página de perfil | [CodePen](https://codepen.io/giancarlo-jose-verastigue-martinez/pen/pvRNvMo) |
 | 10 | Revisión y validación de código | [W3C Validator](https://validator.w3.org/) |
 
-* **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+* **Cuestionario**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSdzQlFxgb4s-nPKWrI55FA9KwIe_cVaSzY7BSfxLdBDi4G8_g/viewform?usp=publish-editor)
 * **Compartir**: #WebDevBeginners
 
 **¡Gracias por completar el curso!**
@@ -114,12 +114,11 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 * **Periodo**: 202610
 * **Curso**: 1ASI0730 Aplicaciones Web
 * **NRC**: 12206
-* **Nombre del equipo**: V&M TechSolutions Squad
+* **Nombre del equipo**: Nexum Devs
 * **Líder del equipo**: Giancarlo Jose Verastigue Martinez
 * **Integrantes del equipo**:
-  1. Alfaro Mallma, Alberto Joaquin
-  2. Vilchez Vite, Gabriel Alejandro
-  3. Rodriguez Rojas, Miler Alexander
-  4. Quispe Perez, Eder Edu
-  5. Giancarlo Jose Verastigue Martinez
-* **Fecha de entrega**: [Fecha de entrega]
+  . Alfaro Mallma, Alberto Joaquin
+  . Vilchez Vite, Gabriel Alejandro
+  . Rodriguez Rojas, Miler Alexander
+  . Quispe Perez, Eder Edu
+  . Verastigue Martinez, Giancarlo Jose
