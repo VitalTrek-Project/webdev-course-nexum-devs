@@ -61,13 +61,13 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 
 #### Lección 7: Introducción a CSS (7 minutos)
 * **Descripción**: Descubre cómo darle estilo a tu HTML conectando una hoja de estilos y usando selectores.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link7)
+* **Enlace**: [Ver la lección]()
 * **Consejos clave**: Vincular CSS, usar selectores básicos como `body { background-color: blue; }`.
 * **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen)
 
 #### Lección 8: Colores, fuentes y alineación (6 minutos)
 * **Descripción**: Personaliza el diseño, centra el contenido y añade colores y bordes.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link8)
+* **Enlace**: [Ver la lección]()
 * **Consejos clave**: Usa propiedades de `color`, `font-family`, y alineación simple.
 * **Práctica**: [Aplicar estilo con un clic](https://replit.com/your-replit-id2)
 
