@@ -43,18 +43,18 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 
 ### Módulo C: Multimedia y Navegación (Responsable: Rodriguez Rojas, Miler Alexander)
 
-#### Lección 5: Añadiendo imágenes (6 minutos)
+#### Lección 5: Añadiendo imágenes (7 minutos)
 * **Descripción**: Haz tu página más visual insertando fotografías y gráficos.
-* **Enlace**: [Ver la lección](https://youtu.be/weHyPF6luHo)
+* **Enlace**: [Ver la lección](https://youtu.be/VGwF8zKaqHw)
 * **Consejos clave**: Usa la etiqueta `<img>` y el atributo `src`.
 * **Material de la sesión**: [Ver material](https://canva.link/mu1ioc1qm9pg3az)
 * **Ejercicio**: [Ver ejercicio de la lección](https://codepen.io/Miler-Alexander-Rodriguez-Rojas/pen/VYPjyVd)
 
-#### Lección 6: Conectando la web con enlaces (5 minutos)
+#### Lección 6: Conectando la web con enlaces (7 minutos)
 * **Descripción**: Crea hipervínculos para navegar entre diferentes páginas y recursos.
-* **Enlace**: [Ver la lección](https://youtu.be/FblF2H1UpKg)
+* **Enlace**: [Ver la lección](https://youtu.be/inH-C1RaX2E)
 * **Consejos clave**: Usa la etiqueta `<a>` y el atributo `href`.
-**Material de la sesión**: [Ver material](https://canva.link/f64dab0tjlto85b)
+* **Material de la sesión**: [Ver material](https://canva.link/f64dab0tjlto85b)
 * **Ejercicio**: [Ver ejercicio de la lección](https://codepen.io/Miler-Alexander-Rodriguez-Rojas/pen/qERNpgp)
 
 ### Módulo D: Diseño y Estilos (Responsable: Alfaro Mallma, Alberto Joaquin)
