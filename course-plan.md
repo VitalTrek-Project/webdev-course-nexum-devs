@@ -75,13 +75,13 @@ Este curso introductorio de aproximadamente 1 hora está diseñado para enseñar
 
 #### Lección 9: Creando tu página de perfil (8 minutos)
 * **Descripción**: Combina HTML y CSS para crear una página de perfil personal completa.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link9)
+* **Enlace**: [Ver la lección](https://youtu.be/vyQi_J17Y3Y)
 * **Consejos clave**: Aplica los estilos aprendidos y estructura paso a paso.
 * **Proyecto Final**: [Crea tu Perfil](https://codepen.io/giancarlo-jose-verastigue-martinez/pen/pvRNvMo)
 
 #### Lección 10: Errores comunes y próximos pasos (6 minutos)
 * **Descripción**: Recomendaciones, errores comunes para principiantes y recursos para seguir aprendiendo.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link10)
+* **Enlace**: [Ver la lección](https://youtu.be/xF8NdGxAZbc)
 * **Consejos clave**: Valida el código y revisa tus etiquetas de cierre.
 
 
