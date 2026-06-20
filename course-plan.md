@@ -1,7 +1,7 @@
 # Fundamentos de Desarrollo Web
 
 ## Resumen del Curso
-Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes de secundaria cómo crear sitios web interactivos y atractivos desde cero utilizando HTML y CSS. 
+Este curso introductorio de aproximadamente 1 hora está diseñado para enseñar a estudiantes de secundaria cómo crear sitios web interactivos y atractivos desde cero utilizando HTML y CSS. 
 
 **¡No requiere descargas!** Todo el entorno de desarrollo es 100% en línea y gratuito. Solo abre tu navegador web.
 
@@ -13,21 +13,21 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 
 ## Secuencia de la lección
 
-### Módulo A: Introducción y Estructura (Responsable: Quispe Perez, Eder Edu)
+### Módulo A: Introducción y Estructura
 
-#### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+#### Lección 1: ¿Qué es el desarrollo web? (4 minutos)
 * **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=P16gAinShZI)
 * **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 * **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
-#### Lección 2: Tu primera página HTML (6 minutos)
+#### Lección 2: Tu primera página HTML (3 minutos)
 * **Descripción**: Explora la estructura básica de HTML y crea tu primer documento web.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=FH8QVPnWLmA)
 * **Consejos clave**: Usa las etiquetas `<html>`, `<head>`, `<body>`.
 * **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
 
-### Módulo B: Organizando el Contenido HTML (Responsable: Vilchez Vite, Gabriel Alejandro)
+### Módulo B: Organizando el Contenido HTML
 
 #### Lección 3: Dando formato al texto (6 minutos)
 * **Descripción**: Aprende a utilizar encabezados y párrafos para organizar la información.
