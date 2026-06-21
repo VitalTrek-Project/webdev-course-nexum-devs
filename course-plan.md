@@ -17,15 +17,16 @@ Este curso introductorio de 1 hora está diseñado para enseñar a estudiantes d
 
 #### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 * **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=P16gAinShZI)
+* **Enlace**: [Ver la lección](https://youtu.be/Lb7wZPeHnCc)
 * **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
+* **Material de la sesión**: [Ver material](https://docs.google.com/presentation/d/16QQrgAH-8rwxdrZM0H43ArC9SHgKdcuoSX8vEx5iY_U/edit?usp=sharing)
 * **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 
 #### Lección 2: Tu primera página HTML (6 minutos)
 * **Descripción**: Explora la estructura básica de HTML y crea tu primer documento web.
-* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=FH8QVPnWLmA)
+* **Enlace**: [Ver la lección](https://youtu.be/C8BJ3trzj1w)
 * **Consejos clave**: Usa las etiquetas `<html>`, `<head>`, `<body>`.
-* **Práctica**: [Clic para programar](https://codepen.io/your-pen-id)
+* **Ejercicio**: [Ver ejercicio de la lección](https://codepen.io/Edu-Quispe-Perez/pen/qERrYMB)
 
 ### Módulo B: Organizando el Contenido HTML (Responsable: Vilchez Vite, Gabriel Alejandro)
 
